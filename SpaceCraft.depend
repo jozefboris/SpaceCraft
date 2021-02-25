@@ -1,0 +1,352 @@
+# depslib dependency file v1.0
+1483958196 source:c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\hra.cpp
+	"Hra.h"
+
+1483958360 c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\hra.h
+	<vector>
+	"VesmirnaLod.h"
+	"VesmirnaLodBuilder.h"
+	"VesmirnaLodDirector.h"
+	"RaketovaLodBuilder.h"
+	"LaserovaLodBuilder.h"
+	"Mapa.h"
+
+1483903896 c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\vesmirnalod.h
+	<iostream>
+	"Laser.h"
+	"Raketomet.h"
+	"Naklad.h"
+
+1480413227 c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\laser.h
+	<iostream>
+	"Zbran.h"
+
+1481674623 c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\zbran.h
+	<iostream>
+
+1480413249 c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\raketomet.h
+	<iostream>
+	"Zbran.h"
+
+1478036824 c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\naklad.h
+	<vector>
+	"Surovina.h"
+
+1478033594 c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\surovina.h
+	<iostream>
+
+1483895560 c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\vesmirnalodbuilder.h
+	<iostream>
+	"VesmirnaLod.h"
+
+1483895735 c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\vesmirnaloddirector.h
+	<iostream>
+	"VesmirnaLodBuilder.h"
+
+1483894167 c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\raketovalodbuilder.h
+	<iostream>
+	"VesmirnaLodBuilder.h"
+	"Raketomet.h"
+
+1483894701 c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\laserovalodbuilder.h
+	<iostream>
+	"VesmirnaLodBuilder.h"
+	"Laser.h"
+
+1480418546 c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\mapa.h
+	<vector>
+	<iostream>
+	"Planeta.h"
+	"Surovina.h"
+	"VesmirnaLod.h"
+
+1483900393 c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\planeta.h
+	<vector>
+	"Surovina.h"
+	"Pirat.h"
+	"VesmirnaLod.h"
+
+1478034414 c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\pirat.h
+	<iostream>
+
+1481674507 source:c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\laser.cpp
+	"Laser.h"
+
+1483894677 source:c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\laserovalodbuilder.cpp
+	"LaserovaLodBuilder.h"
+
+1483902703 source:c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\main.cpp
+	<iostream>
+	"Mapa.h"
+	"VesmirnaLod.h"
+	"Laser.h"
+	"Raketomet.h"
+	"Hra.h"
+
+1483958253 source:c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\mapa.cpp
+	"Mapa.h"
+
+1478038740 source:c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\naklad.cpp
+	"Naklad.h"
+
+1478034373 source:c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\pirat.cpp
+	"Pirat.h"
+
+1483904403 source:c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\planeta.cpp
+	"Planeta.h"
+
+1481674514 source:c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\raketomet.cpp
+	"Raketomet.h"
+
+1483895679 source:c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\raketovalodbuilder.cpp
+	"RaketovaLodBuilder.h"
+
+1478037634 source:c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\surovina.cpp
+	"Surovina.h"
+
+1483904045 source:c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\vesmirnalod.cpp
+	"VesmirnaLod.h"
+
+1483895778 source:c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\vesmirnalodbuilder.cpp
+	"VesmirnaLodBuilder.h"
+
+1483895785 source:c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\vesmirnaloddirector.cpp
+	"VesmirnaLodDirector.h"
+
+1481674494 source:c:\users\miroslav Žiaran\desktop\boris\2. obhajoba\spacecraft\zbran.cpp
+	"Zbran.h"
+
+1481674507 source:c:\users\uzivatel\desktop\hrafinal\spacecraft\laser.cpp
+	"Laser.h"
+
+1480413227 c:\users\uzivatel\desktop\hrafinal\spacecraft\laser.h
+	<iostream>
+	"Zbran.h"
+
+1481674623 c:\users\uzivatel\desktop\hrafinal\spacecraft\zbran.h
+	<iostream>
+
+1483894677 source:c:\users\uzivatel\desktop\hrafinal\spacecraft\laserovalodbuilder.cpp
+	"LaserovaLodBuilder.h"
+
+1483894701 c:\users\uzivatel\desktop\hrafinal\spacecraft\laserovalodbuilder.h
+	<iostream>
+	"VesmirnaLodBuilder.h"
+	"Laser.h"
+
+1483895560 c:\users\uzivatel\desktop\hrafinal\spacecraft\vesmirnalodbuilder.h
+	<iostream>
+	"VesmirnaLod.h"
+
+1483903896 c:\users\uzivatel\desktop\hrafinal\spacecraft\vesmirnalod.h
+	<iostream>
+	"Laser.h"
+	"Raketomet.h"
+	"Naklad.h"
+
+1480413249 c:\users\uzivatel\desktop\hrafinal\spacecraft\raketomet.h
+	<iostream>
+	"Zbran.h"
+
+1478036824 c:\users\uzivatel\desktop\hrafinal\spacecraft\naklad.h
+	<vector>
+	"Surovina.h"
+
+1478033594 c:\users\uzivatel\desktop\hrafinal\spacecraft\surovina.h
+	<iostream>
+
+1483902703 source:c:\users\uzivatel\desktop\hrafinal\spacecraft\main.cpp
+	<iostream>
+	"Mapa.h"
+	"VesmirnaLod.h"
+	"Laser.h"
+	"Raketomet.h"
+	"Hra.h"
+
+1480418546 c:\users\uzivatel\desktop\hrafinal\spacecraft\mapa.h
+	<vector>
+	<iostream>
+	"Planeta.h"
+	"Surovina.h"
+	"VesmirnaLod.h"
+
+1483900393 c:\users\uzivatel\desktop\hrafinal\spacecraft\planeta.h
+	<vector>
+	"Surovina.h"
+	"Pirat.h"
+	"VesmirnaLod.h"
+
+1478034414 c:\users\uzivatel\desktop\hrafinal\spacecraft\pirat.h
+	<iostream>
+
+1483958360 c:\users\uzivatel\desktop\hrafinal\spacecraft\hra.h
+	<vector>
+	"VesmirnaLod.h"
+	"VesmirnaLodBuilder.h"
+	"VesmirnaLodDirector.h"
+	"RaketovaLodBuilder.h"
+	"LaserovaLodBuilder.h"
+	"Mapa.h"
+
+1483895735 c:\users\uzivatel\desktop\hrafinal\spacecraft\vesmirnaloddirector.h
+	<iostream>
+	"VesmirnaLodBuilder.h"
+
+1483894167 c:\users\uzivatel\desktop\hrafinal\spacecraft\raketovalodbuilder.h
+	<iostream>
+	"VesmirnaLodBuilder.h"
+	"Raketomet.h"
+
+1483958253 source:c:\users\uzivatel\desktop\hrafinal\spacecraft\mapa.cpp
+	"Mapa.h"
+
+1478038740 source:c:\users\uzivatel\desktop\hrafinal\spacecraft\naklad.cpp
+	"Naklad.h"
+
+1478034373 source:c:\users\uzivatel\desktop\hrafinal\spacecraft\pirat.cpp
+	"Pirat.h"
+
+1483904403 source:c:\users\uzivatel\desktop\hrafinal\spacecraft\planeta.cpp
+	"Planeta.h"
+
+1481674514 source:c:\users\uzivatel\desktop\hrafinal\spacecraft\raketomet.cpp
+	"Raketomet.h"
+
+1483895679 source:c:\users\uzivatel\desktop\hrafinal\spacecraft\raketovalodbuilder.cpp
+	"RaketovaLodBuilder.h"
+
+1478037634 source:c:\users\uzivatel\desktop\hrafinal\spacecraft\surovina.cpp
+	"Surovina.h"
+
+1483959379 source:c:\users\uzivatel\desktop\hrafinal\spacecraft\vesmirnalod.cpp
+	"VesmirnaLod.h"
+
+1483895778 source:c:\users\uzivatel\desktop\hrafinal\spacecraft\vesmirnalodbuilder.cpp
+	"VesmirnaLodBuilder.h"
+
+1483895785 source:c:\users\uzivatel\desktop\hrafinal\spacecraft\vesmirnaloddirector.cpp
+	"VesmirnaLodDirector.h"
+
+1481674494 source:c:\users\uzivatel\desktop\hrafinal\spacecraft\zbran.cpp
+	"Zbran.h"
+
+1483958539 source:c:\users\uzivatel\desktop\hrafinal\spacecraft\hra.cpp
+	"Hra.h"
+
+1543087675 source:d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\hra.cpp
+	"Hra.h"
+
+1483958360 d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\hra.h
+	<vector>
+	"VesmirnaLod.h"
+	"VesmirnaLodBuilder.h"
+	"VesmirnaLodDirector.h"
+	"RaketovaLodBuilder.h"
+	"LaserovaLodBuilder.h"
+	"Mapa.h"
+
+1483903896 d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\vesmirnalod.h
+	<iostream>
+	"Laser.h"
+	"Raketomet.h"
+	"Naklad.h"
+
+1480413227 d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\laser.h
+	<iostream>
+	"Zbran.h"
+
+1481674623 d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\zbran.h
+	<iostream>
+
+1480413249 d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\raketomet.h
+	<iostream>
+	"Zbran.h"
+
+1478036824 d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\naklad.h
+	<vector>
+	"Surovina.h"
+
+1478033594 d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\surovina.h
+	<iostream>
+
+1483895560 d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\vesmirnalodbuilder.h
+	<iostream>
+	"VesmirnaLod.h"
+
+1483895735 d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\vesmirnaloddirector.h
+	<iostream>
+	"VesmirnaLodBuilder.h"
+
+1483894167 d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\raketovalodbuilder.h
+	<iostream>
+	"VesmirnaLodBuilder.h"
+	"Raketomet.h"
+
+1483894701 d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\laserovalodbuilder.h
+	<iostream>
+	"VesmirnaLodBuilder.h"
+	"Laser.h"
+
+1480418546 d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\mapa.h
+	<vector>
+	<iostream>
+	"Planeta.h"
+	"Surovina.h"
+	"VesmirnaLod.h"
+
+1483900393 d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\planeta.h
+	<vector>
+	"Surovina.h"
+	"Pirat.h"
+	"VesmirnaLod.h"
+
+1478034414 d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\pirat.h
+	<iostream>
+
+1481674507 source:d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\laser.cpp
+	"Laser.h"
+
+1483894677 source:d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\laserovalodbuilder.cpp
+	"LaserovaLodBuilder.h"
+
+1483902703 source:d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\main.cpp
+	<iostream>
+	"Mapa.h"
+	"VesmirnaLod.h"
+	"Laser.h"
+	"Raketomet.h"
+	"Hra.h"
+
+1483958253 source:d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\mapa.cpp
+	"Mapa.h"
+
+1478038740 source:d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\naklad.cpp
+	"Naklad.h"
+
+1478034373 source:d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\pirat.cpp
+	"Pirat.h"
+
+1483904403 source:d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\planeta.cpp
+	"Planeta.h"
+
+1481674514 source:d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\raketomet.cpp
+	"Raketomet.h"
+
+1483895679 source:d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\raketovalodbuilder.cpp
+	"RaketovaLodBuilder.h"
+
+1478037634 source:d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\surovina.cpp
+	"Surovina.h"
+
+1483959379 source:d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\vesmirnalod.cpp
+	"VesmirnaLod.h"
+
+1543171886 source:d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\vesmirnalodbuilder.cpp
+	"VesmirnaLodBuilder.h"
+
+1483895785 source:d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\vesmirnaloddirector.cpp
+	"VesmirnaLodDirector.h"
+
+1481674494 source:d:\skola\1.semester\zoo\c++\hrafinal\spacecraft\zbran.cpp
+	"Zbran.h"
+
